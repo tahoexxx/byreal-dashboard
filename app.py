@@ -174,7 +174,9 @@ if not data:
     st.stop()
 
 p = data["platform"]
-m = data["market"]
+m = data.get("market") or {}
+if not isinstance(m, dict):
+    m = {}
 alerts = data.get("alerts", [])
 
 # Header

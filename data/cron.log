@@ -116,3 +116,27 @@ To https://github.com/0xTadeo/byreal-dashboard.git
    🔴 [reward] MSTRx-USDC 激励 3 天后到期，提醒团队续期
    🔴 [reward] HOODx-USDC 激励 3 天后到期，提醒团队续期
    🔴 [reward] AMZNx-USDC 激励 3 天后到期，提醒团队续期
+[main 1b21d54] auto: data update 2026-02-24 14:58
+ Committer: Martis <martis@MartisdeMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 12 files changed, 13895 insertions(+), 13473 deletions(-)
+ delete mode 100644 dashboard/data/latest/summary.json
+ delete mode 120000 data/latest
+ create mode 100644 data/latest/competitors.json
+ create mode 100644 data/latest/market.json
+ create mode 100644 data/latest/pools_raw.json
+ create mode 100644 data/latest/summary.json
+To https://github.com/0xTadeo/byreal-dashboard.git
+   7e0a037..1b21d54  main -> main
+✓ Pushed to GitHub
