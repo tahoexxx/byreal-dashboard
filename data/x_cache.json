@@ -1,14 +1,50 @@
 [
   {
-    "handle": "CryptoHayes",
-    "name": "Arthur Hayes",
+    "handle": "StepFinance",
+    "name": "Step Finance",
+    "type": "ecosystem",
+    "content": "Today we are announcing that Step Finance, SolanaFloor, and Remora Markets will be winding down all operations. Following the hack at the end of January we explored every possible path forward, including financing and acquisition opportunities.",
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "views": 0,
+    "timestamp": "2026-02-24T14:00:00Z",
+    "url": "https://x.com/StepFinance/status/unknown"
+  },
+  {
+    "handle": "SolanaFloor",
+    "name": "SolanaFloor",
+    "type": "ecosystem",
+    "content": "Since its founding, SolanaFloor has worked to document and contextualize the growth of the Solana ecosystem. What began as a small X account grew into one of the most widely read sources. We are winding down operations.",
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "views": 0,
+    "timestamp": "2026-02-24T14:00:00Z",
+    "url": "https://x.com/SolanaFloor/status/unknown"
+  },
+  {
+    "handle": "zachxbt",
+    "name": "ZachXBT",
     "type": "kol",
-    "content": "My portfolio right now. \n\nStonks - gold silver copper uranium miners, oil majors, merchants of death, LatAM energy names \n\nCrypto - $BTC, $ETH, $ZEC, $HYPE\n\nAnd physical gold. \n\nWatchu got fam?",
-    "likes": 2334,
-    "retweets": 112,
-    "replies": 516,
-    "views": 302223,
-    "timestamp": "2026-02-23T00:39:32+00:00",
-    "url": "https://x.com/CryptoHayes/status/2025732220615569806"
+    "content": "Major investigation dropping February 26. Polymarket odds: Meteora 47%, Axiom 13%, Pump.fun 9%, MEXC 8%, Jupiter 7.5%. Insider trading exposure incoming.",
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "views": 0,
+    "timestamp": "2026-02-24T12:00:00Z",
+    "url": "https://x.com/zachxbt/status/unknown"
+  },
+  {
+    "handle": "Polymarket",
+    "name": "Polymarket",
+    "type": "ecosystem",
+    "content": "Bitcoin is now expected to crash below $45,000 this year.",
+    "likes": 0,
+    "retweets": 0,
+    "replies": 0,
+    "views": 0,
+    "timestamp": "2026-02-23T18:00:00Z",
+    "url": "https://x.com/Polymarket/status/unknown"
   }
 ]
