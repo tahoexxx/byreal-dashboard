@@ -1,0 +1,2 @@
+::ffff:127.0.0.1 - - [26/Feb/2026 17:22:39] code 501, message Unsupported method ('CONNECT')
+::ffff:127.0.0.1 - - [26/Feb/2026 17:22:39] "CONNECT www.google.com:443 HTTP/1.1" 501 -
