@@ -30,11 +30,14 @@ TOKEN = os.environ.get("TWITTER_TOKEN", "")
 ACCOUNTS = {
     # Byreal
     "byreal_io": {"type": "byreal", "max": 10},
+    # 合作伙伴
+    "xStocksFi": {"type": "partner", "max": 10},
     # 竞品 DEX — 重点监控
     "JupiterExchange": {"type": "competitor", "max": 10},
     "MeteoraAG": {"type": "competitor", "max": 10},
     "Raydium": {"type": "competitor", "max": 10},
     "orca_so": {"type": "competitor", "max": 10},
+    "Uniswap": {"type": "competitor", "max": 5},
     # 生态
     "solana": {"type": "ecosystem", "max": 5},
     "SolanaFloor": {"type": "ecosystem", "max": 5},
@@ -86,6 +89,8 @@ COMPETITOR_SEARCHES = [
     {"keywords": "Meteora DeFi OR Meteora DAMM", "minLikes": 10, "maxResults": 10, "product": "Top", "tag": "about_meteora"},
     {"keywords": "Raydium liquidity OR Raydium pool", "minLikes": 10, "maxResults": 10, "product": "Top", "tag": "about_raydium"},
     {"keywords": "Orca Solana DEX", "minLikes": 10, "maxResults": 10, "product": "Top", "tag": "about_orca"},
+    {"keywords": "xStocks tokenized stocks OR xPoints", "minLikes": 10, "maxResults": 10, "product": "Top", "tag": "about_xstocks"},
+    {"keywords": "Uniswap v4 OR Unichain", "minLikes": 20, "maxResults": 10, "product": "Top", "tag": "about_uniswap"},
 ]
 
 
